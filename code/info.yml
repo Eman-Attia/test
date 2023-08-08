@@ -1,0 +1,6 @@
+groups:
+  advanced-group:
+    name: advanced-group
+  admin-group:
+    name: admin-group
+
